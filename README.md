@@ -6,11 +6,11 @@ Programmers that can reuse it between projects without getting them changed.
 ```
 git clone https://github.com/JitendraDandekar/react-redux-saga-boilerplate.git
 ```
-2. To install dependencies run below command
+2. To install dependencies, run below command
 ```
 npm install
 ```
-3. To run the application run below command
+3. To run the application, run below command
 ```
 npm start
 ```
